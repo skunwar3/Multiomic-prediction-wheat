@@ -1,4 +1,4 @@
-# Clear workspace
+# Clear workspace all
 rm(list = ls())
 
 # Load libraries
